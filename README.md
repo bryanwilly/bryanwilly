@@ -1,5 +1,5 @@
 ### Hello :wave::smile:
-I'm a mechanical engineer and master's degree student, currently studying data science using Python and R languages.
+I'm a mechanical engineer and master's degree student, currently studying data science with Python and R languages.
 
 
 - 📫 How to reach me:
